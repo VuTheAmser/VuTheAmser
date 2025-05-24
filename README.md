@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Hoang Vu
-- 👀 I’m interested in Computer Science and also Computer Engineering
-- 🌱 I’m currently learning programming languages
-- 💞️ I’m looking to collaborate on Fintech projects
-- 📫 How to reach me: Telegram, WhatsApp or GitHub
+- 👋 Hi, I’m Trinh Hoang Vu @VuTheAmser
+- 👀 I’m interested in Cyber Security. Blockchain and IT System Infrastructure
+- 🌱 I’m currently a Computer Engineering Undergraduate @NTU Singapore
+- 💞️ I’m looking to collaborate on projects to further strengthen my knowledge
+- 📫 How to reach me:
+          Telegram:   @HoangVu03
+          Email:      trinhhoangvu2004@gmail.com
+          Facebook:   https://www.facebook.com/trinhhoangvu1603
 
 <!---
 VuTheAmser/VuTheAmser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
